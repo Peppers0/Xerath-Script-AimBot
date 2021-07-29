@@ -19,3 +19,8 @@ League of Legends External Xerath spell AutoAIM
 # Xerath R:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/82063567/127531278-079aaed9-0d54-488e-9d5f-5c1bb0692b62.gif)
+
+# KeyBinds
+
+![keys](https://user-images.githubusercontent.com/82063567/127531916-3f98aea9-051a-4548-a834-81371e57047b.png)
+
