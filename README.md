@@ -3,6 +3,7 @@ League of Legends External Xerath spell AutoAIM
 
 # Xerath Q:
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/82063567/127531577-a43a6985-6a8a-4cef-b634-2aa96b35cdac.gif)
 
 
 # Xerath W:
@@ -17,4 +18,4 @@ League of Legends External Xerath spell AutoAIM
 
 # Xerath R:
 
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/82063567/127531278-079aaed9-0d54-488e-9d5f-5c1bb0692b62.gif)
