@@ -22,5 +22,6 @@ League of Legends External Xerath spell AutoAIM
 
 # Settings
 Recommended resolution: 1920x1080 || 1600x900 || 1280x720
+
 ![keys](https://user-images.githubusercontent.com/82063567/127531916-3f98aea9-051a-4548-a834-81371e57047b.png)
 
